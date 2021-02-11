@@ -6,4 +6,4 @@ I'd be lying if I said I understood how every part of this project works (if it 
 
 I make make minor tweaks in an offline version for testing purposes but for the most part I use this game as a practical features example.
 
-Hope you find something useful :)
+Hope you find something useful!
